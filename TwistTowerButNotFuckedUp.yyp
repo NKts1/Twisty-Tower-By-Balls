@@ -6040,6 +6040,7 @@
     {"id":{"name":"spr_vstitle_vigilante","path":"sprites/spr_vstitle_vigilante/spr_vstitle_vigilante.yy",},},
     {"id":{"name":"spr_gate_golf","path":"sprites/spr_gate_golf/spr_gate_golf.yy",},},
     {"id":{"name":"spr_noise_copyexplode","path":"sprites/spr_noise_copyexplode/spr_noise_copyexplode.yy",},},
+    {"id":{"name":"ForgottenA","path":"sounds/ForgottenA/ForgottenA.yy",},},
     {"id":{"name":"spr_pizzaface_hiteffect1","path":"sprites/spr_pizzaface_hiteffect1/spr_pizzaface_hiteffect1.yy",},},
     {"id":{"name":"bg_bacon","path":"sprites/bg_bacon/bg_bacon.yy",},},
     {"id":{"name":"spr_soldier_stun","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},},
