@@ -82,3 +82,8 @@ if (room == rank_room || room == boss_pizzaface || room == boss_noise || room ==
 		fmod_event_instance_stop(music.event_secret, true);
 	}
 }
+	if (room == Forgotten_1)
+{
+	audio_play_sound(ForgottenA, 0, true);
+
+	}
